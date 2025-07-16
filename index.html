@@ -1,7 +1,45 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="pt-BR" xml:lang="pt-BR"><head><meta charset="UTF-8"/>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="pt-BR" xml:lang="pt-BR">
+	<head>
+		<meta charset="UTF-8"/>
 		<title>Manual de uso - LEGO Braille Bricks</title>
-	<meta name="description" content=""/><meta name="author" content="Fundação Dorina Nowill para Cegos"/><meta name="robots" content="noindex, nofollow"/><link href="./resources/styles/style_index.css" rel="stylesheet" type="text/css"/></head>
+	<meta name="description" content=""/><meta name="author" content="Fundação Dorina Nowill para Cegos"/><meta name="robots" content="noindex, nofollow"/><link href="./resources/styles/style_index.css" rel="stylesheet" type="text/css"/>
+	<!-- REMOVA TODO SCRIPT ANTERIOR DE ACESSIBILIDADE E SUBSTITUA INTEIRAMENTE POR ESTE BLOCO ABAIXO -->
+<!-- Accessibility patch: ensure images are announced correctly by TalkBack -->
+		<style>
+		  /* Garantir que imagens não fiquem ocultas */
+		  ._idGenObjectStyle-Disabled {
+		    display: block !important;
+		    opacity: 1 !important;
+		  }
+		</style>
+		<script>
+		  document.addEventListener('DOMContentLoaded', function() {
+		    document.querySelectorAll('img').forEach(img => {
+		      const desc = img.getAttribute('alt') || '';
+		      // Define acessibilidade
+		      img.setAttribute('role', 'img');
+		      img.setAttribute('aria-hidden', desc ? 'false' : 'true');
+		      if (desc) img.setAttribute('aria-label', desc);
+		      // Torna a imagem focável
+		      img.setAttribute('tabindex', '0');
+		
+		      // Envolve em <figure> para agrupamento semântico, se não existir
+		      if (!img.closest('figure')) {
+		        const fig = document.createElement('figure');
+		        fig.setAttribute('role', 'group');
+		        fig.setAttribute('tabindex', '0');
+		        if (desc) fig.setAttribute('aria-label', desc);
+		        img.parentNode.insertBefore(fig, img);
+		        fig.appendChild(img);
+		      }
+		    });
+		  });
+		</script>
+
+	
+	
+	</head>
 	<body lang="pt-BR" xml:lang="pt-BR"><div itemscope="" itemtype="https://schema.org/Book"><meta itemprop="accessibilityFeature" content="largePrint/CSSEnabled"/><meta itemprop="copyrightHolder" content=""/><meta itemprop="copyrightYear" content="2025-06-18T15:20:18Z"/><meta itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="" content="Fundação Dorina Nowill para Cegos"/><meta itemprop="subject" content=""/><meta itemprop="description" content=""/><meta itemprop="name" content="Manual de uso - LEGO Braille Bricks"/><meta itemprop="accessibilityControl" content="fullKeyboardControl"/><meta itemprop="accessibilityFeature" content="alternativeText"/><meta itemprop="accessibilityFeature" content="longDescription"/><meta itemprop="accessibilityFeature" content="displayTransformability"/><meta itemprop="accessibilityFeature" content="resizeText/CSSEnabled"/><meta itemprop="accessibilityFeature" content="highContrast/CSSEnabled"/></div>
 		<nav id="toc" epub:type="toc" role="doc-toc">
 		<h1>Sumário</h1>
