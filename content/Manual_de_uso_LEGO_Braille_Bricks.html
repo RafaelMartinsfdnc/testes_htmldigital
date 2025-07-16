@@ -10,7 +10,7 @@
 	<meta name="description" content=""/>
 	<meta name="author" content="Fundação Dorina Nowill para Cegos"/>
 	<meta name="robots" content="noindex, nofollow"/>
-<!-- Ajuste Talkback -->
+<!-- Accessibility patch: ensure images are announced correctly by TalkBack -->
 <style>
   /* Garantir que imagens não fiquem ocultas */
   ._idGenObjectStyle-Disabled {
@@ -18,37 +18,30 @@
     opacity: 1 !important;
   }
 </style>
-
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('img').forEach(img => {
-    const desc = img.getAttribute('alt') || '';
-    img.setAttribute('role', 'img');
-    img.setAttribute('aria-hidden', desc ? 'false' : 'true');
-    if (desc) img.setAttribute('aria-label', desc);
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('img').forEach(img => {
+      const desc = img.getAttribute('alt') || '';
+      // Define acessibilidade
+      img.setAttribute('role', 'img');
+      img.setAttribute('aria-hidden', desc ? 'false' : 'true');
+      if (desc) img.setAttribute('aria-label', desc);
+      // Torna a imagem focável
+      img.setAttribute('tabindex', '0');
 
-    const parent = img.parentNode;
-    // Usa apenas elementos filhos, ignorando texto/brancos
-    if (parent.tagName.toLowerCase() === 'p' && parent.children.length === 1) {
-      const fig = document.createElement('figure');
-      fig.setAttribute('role', 'group');
-      fig.setAttribute('tabindex', '0');
-      if (desc) fig.setAttribute('aria-label', desc);
-      // substitui <p> inteiro por <figure>
-      parent.replaceWith(fig);
-      fig.appendChild(img);
-    }
-    else if (!img.closest('figure')) {
-      const fig = document.createElement('figure');
-      fig.setAttribute('role', 'group');
-      fig.setAttribute('tabindex', '0');
-      if (desc) fig.setAttribute('aria-label', desc);
-      img.parentNode.insertBefore(fig, img);
-      fig.appendChild(img);
-    }
+      // Envolve em <figure> para agrupamento semântico, se não existir
+      if (!img.closest('figure')) {
+        const fig = document.createElement('figure');
+        fig.setAttribute('role', 'group');
+        fig.setAttribute('tabindex', '0');
+        if (desc) fig.setAttribute('aria-label', desc);
+        img.parentNode.insertBefore(fig, img);
+        fig.appendChild(img);
+      }
+    });
   });
-});
 </script>
+
 
 
 
