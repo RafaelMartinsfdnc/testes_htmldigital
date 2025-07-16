@@ -4,38 +4,26 @@
 		<meta charset="UTF-8"/>
 		<title>Manual de uso - LEGO Braille Bricks</title>
 	<meta name="description" content=""/><meta name="author" content="Fundação Dorina Nowill para Cegos"/><meta name="robots" content="noindex, nofollow"/><link href="./resources/styles/style_index.css" rel="stylesheet" type="text/css"/>
-	<!-- REMOVA TODO SCRIPT ANTERIOR DE ACESSIBILIDADE E SUBSTITUA INTEIRAMENTE POR ESTE BLOCO ABAIXO -->
-<!-- Accessibility patch: ensure images are announced correctly by TalkBack -->
-		<style>
-		  /* Garantir que imagens não fiquem ocultas */
-		  ._idGenObjectStyle-Disabled {
-		    display: block !important;
-		    opacity: 1 !important;
-		  }
-		</style>
-		<script>
-		  document.addEventListener('DOMContentLoaded', function() {
-		    document.querySelectorAll('img').forEach(img => {
-		      const desc = img.getAttribute('alt') || '';
-		      // Define acessibilidade
-		      img.setAttribute('role', 'img');
-		      img.setAttribute('aria-hidden', desc ? 'false' : 'true');
-		      if (desc) img.setAttribute('aria-label', desc);
-		      // Torna a imagem focável
-		      img.setAttribute('tabindex', '0');
-		
-		      // Envolve em <figure> para agrupamento semântico, se não existir
-		      if (!img.closest('figure')) {
-		        const fig = document.createElement('figure');
-		        fig.setAttribute('role', 'group');
-		        fig.setAttribute('tabindex', '0');
-		        if (desc) fig.setAttribute('aria-label', desc);
-		        img.parentNode.insertBefore(fig, img);
-		        fig.appendChild(img);
-		      }
-		    });
-		  });
-		</script>
+	<!-- REMOVA qualquer script antigo antes deste ponto -->
+<style>
+  /* Garante que nada esconda as imagens */
+  ._idGenObjectStyle-Disabled {
+    display: block !important;
+    opacity: 1 !important;
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('img').forEach(img => {
+      const desc = img.getAttribute('alt') || '';
+      img.setAttribute('role', 'img');
+      img.setAttribute('aria-hidden', desc ? 'false' : 'true');
+      if (desc) img.setAttribute('aria-label', desc);
+      img.setAttribute('tabindex', '0');
+    });
+  });
+</script>
+
 
 	
 	
