@@ -1,0 +1,455 @@
+@font-face {
+	font-family:Arial;
+	font-style:normal;
+	font-weight:bold;
+	src : url("../fonts/Arial-BoldMT.ttf");
+}
+@font-face {
+	font-family:Arial;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../fonts/ArialMT.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.Quadro-de-gr-fico-b-sico, img.Quadro-de-gr-fico-b-sico {
+	border-style:solid;
+}
+h1.fdnc_fdnc_h1 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:6px;
+	margin-left:23px;
+	margin-right:23px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h2.fdnc_fdnc_h2 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:6px;
+	margin-left:0;
+	margin-right:23px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.fdnc_fdnc_p {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:10px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.quebra {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+abbr.fdnc_fdnc_bold____correcao__-Opção-__24940100-f804-9df8-fb78-a3c0dbf8c602, span.fdnc_fdnc_bold____correcao__-Opção-__24940100-f804-9df8-fb78-a3c0dbf8c602 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-Opção-__93b4e832-dfb8-5e04-68da-1a0ce8ca4f6e, span.fdnc_fdnc_bold____correcao__-Opção-__93b4e832-dfb8-5e04-68da-1a0ce8ca4f6e {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-Opção-__f7ae911c-24dc-9362-6ce2-0a126ad6ff64, span.fdnc_fdnc_bold____correcao__-Opção-__f7ae911c-24dc-9362-6ce2-0a126ad6ff64 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinco-mil-setecentas-e-trinta-e-cinco-__adcab3b6-4aac-e3fa-7464-c996e4883a78, span.fdnc_fdnc_bold____correcao__-cinco-mil-setecentas-e-trinta-e-cinco-__adcab3b6-4aac-e3fa-7464-c996e4883a78 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinquenta-e-cinco-cinquenta-e-quatro-zéro-nóve-noventa-e-nóve-__e39ee74a-4c20-38e8-601a-e3d0a72e4276, span.__correcao__-cinquenta-e-cinco-cinquenta-e-quatro-zéro-nóve-noventa-e-nóve-__e39ee74a-4c20-38e8-601a-e3d0a72e4276 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-mil-seiscentos-e-doze-__5e121034-e4ac-2112-4f52-6798cd984784, span.fdnc_fdnc_bold____correcao__-cinquenta-mil-seiscentos-e-doze-__5e121034-e4ac-2112-4f52-6798cd984784 {
+	-epub-text-combine:none;
+	color:#d36417;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-cinquenta-e-cinco-__cd38e596-c3f4-8d4e-f344-2d3ca62e07a4, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-cinquenta-e-cinco-__cd38e596-c3f4-8d4e-f344-2d3ca62e07a4 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__45728fe6-9b8a-547a-3f7a-c0ea69a88b28, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__45728fe6-9b8a-547a-3f7a-c0ea69a88b28 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__72323ff6-c560-91e6-1b6c-216e5814c8fa, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__72323ff6-c560-91e6-1b6c-216e5814c8fa {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__7c8a3a50-f02e-91ea-301a-e33a59222072, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__7c8a3a50-f02e-91ea-301a-e33a59222072 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__d816b65e-7078-522a-d07e-71282a92e0fa, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-nóve-__d816b65e-7078-522a-d07e-71282a92e0fa {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-oito-__9580c02c-4f62-78ec-e82a-02c676565c56, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-noventa-e-oito-__9580c02c-4f62-78ec-e82a-02c676565c56 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-oitenta-e-dois-__d2e44dba-4d12-2658-2002-006a5d6098d2, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-oitenta-e-dois-__d2e44dba-4d12-2658-2002-006a5d6098d2 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-setenta-e-huum-__4352d520-79d2-703c-86d8-df5ce332886e, span.fdnc_fdnc_bold____correcao__-cinquenta-oitenta-e-séte-zéro-nove-setenta-e-huum-__4352d520-79d2-703c-86d8-df5ce332886e {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-duas-mil-trezentas-e-huma-__1fce5e70-0a24-20a2-1f42-306cdbb4abe8, span.fdnc_fdnc_bold____correcao__-duas-mil-trezentas-e-huma-__1fce5e70-0a24-20a2-1f42-306cdbb4abe8 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-duzentas-e-cinquenta-e-três-__2e320cb2-b524-384c-e042-df7cda54e69c, span.fdnc_fdnc_bold____correcao__-duzentas-e-cinquenta-e-três-__2e320cb2-b524-384c-e042-df7cda54e69c {
+	-epub-text-combine:none;
+	color:#d36417;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-duzentas-e-sessenta-e-seis-mil-e-vinte-e-quatro-__71e823d8-de60-301c-5fc8-e77efc106ba4, span.fdnc_fdnc_bold____correcao__-duzentas-e-sessenta-e-seis-mil-e-vinte-e-quatro-__71e823d8-de60-301c-5fc8-e77efc106ba4 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-hêeh-áh-dê-__17644b26-cdb2-2cee-1976-7890a308aab2, span.__correcao__-hêeh-áh-dê-__17644b26-cdb2-2cee-1976-7890a308aab2 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-hêeh-áh-dê-__9e6aebda-9eb6-a30a-f436-4796d4a80442, span.__correcao__-hêeh-áh-dê-__9e6aebda-9eb6-a30a-f436-4796d4a80442 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-mil-__dd466b10-642e-a5c8-9cfe-3aaa31a04f34, span.fdnc_fdnc_bold____correcao__-mil-__dd466b10-642e-a5c8-9cfe-3aaa31a04f34 {
+	-epub-text-combine:none;
+	color:#d36417;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-mil-duzentas-e-oitenta-e-oito-__ee9c219a-67ca-f0a0-d94e-55987e20eb40, span.fdnc_fdnc_bold____correcao__-mil-duzentas-e-oitenta-e-oito-__ee9c219a-67ca-f0a0-d94e-55987e20eb40 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-mil-quinhentas-e-cinquenta-e-duas-__e4d45882-9192-367a-b254-6e6cdd1a928a, span.__correcao__-mil-quinhentas-e-cinquenta-e-duas-__e4d45882-9192-367a-b254-6e6cdd1a928a {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-mil-setecentas-e-noventa-e-huma-__4b2e5550-cf16-97a0-214c-cbc2a1d41ba4, span.fdnc_fdnc_bold____correcao__-mil-setecentas-e-noventa-e-huma-__4b2e5550-cf16-97a0-214c-cbc2a1d41ba4 {
+	-epub-text-combine:none;
+	color:#d36417;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-noventa-e-duas-__2b16f8aa-9ac8-9638-7770-6e9af88eccb0, span.__correcao__-noventa-e-duas-__2b16f8aa-9ac8-9638-7770-6e9af88eccb0 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-onze-__a884a00e-68b4-f6d8-328e-71e46de017c6, span.fdnc_fdnc_bold____correcao__-onze-__a884a00e-68b4-f6d8-328e-71e46de017c6 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-primeira-__597424e2-358e-178a-6ef8-446235648182, span.__correcao__-primeira-__597424e2-358e-178a-6ef8-446235648182 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-primeira-__ff0ac868-b8a2-c5da-3bde-daaeee0e8d52, span.__correcao__-primeira-__ff0ac868-b8a2-c5da-3bde-daaeee0e8d52 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-setenta-e-seis-mil-novecentas-e-quarenta-__f128f43e-fe30-ab18-b704-82bc5b088224, span.fdnc_fdnc_bold____correcao__-setenta-e-seis-mil-novecentas-e-quarenta-__f128f43e-fe30-ab18-b704-82bc5b088224 {
+	-epub-text-combine:none;
+	color:#d36417;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-trinta-e-seis-mil-setecentas-e-catorze--__e134ba0c-0e6c-eaee-e562-6f7668cc2a76, span.fdnc_fdnc_bold____correcao__-trinta-e-seis-mil-setecentas-e-catorze--__e134ba0c-0e6c-eaee-e562-6f7668cc2a76 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-três-mil-e-noventa-e-duas-__6f463cd8-bb0e-1204-8540-7c8ef77ce892, span.fdnc_fdnc_bold____correcao__-três-mil-e-noventa-e-duas-__6f463cd8-bb0e-1204-8540-7c8ef77ce892 {
+	-epub-text-combine:none;
+	color:#d36417;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-áh-cê-íh-cê-__e54c3608-501c-99e2-3dea-71a80b4262dc, span.__correcao__-áh-cê-íh-cê-__e54c3608-501c-99e2-3dea-71a80b4262dc {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-íh-héssi-ême-áh-cê-__f19a69e8-47a0-2168-e69a-1d4eeca8911c, span.__correcao__-íh-héssi-ême-áh-cê-__f19a69e8-47a0-2168-e69a-1d4eeca8911c {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-óh-ême-héssi-__abd24d86-a56a-2fa8-8090-4ece718a6fd2, span.__correcao__-óh-ême-héssi-__abd24d86-a56a-2fa8-8090-4ece718a6fd2 {
+	-epub-text-combine:none;
+	color:#d36417;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.fdnc_fdnc_bold {
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+/* Remove underline padrão de abbr com title */
+abbr[title] {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  cursor: help; /* opcional, mantém o ícone de ajuda */
+}
