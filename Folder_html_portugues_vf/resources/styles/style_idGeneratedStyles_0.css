@@ -1,0 +1,552 @@
+@font-face {
+	font-family:Arial;
+	font-style:normal;
+	font-weight:bold;
+	src : url("../fonts/Arial-BoldMT.ttf");
+}
+@font-face {
+	font-family:Arial;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../fonts/ArialMT.ttf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+p.Quadro-de-gr-fico-b-sico, img.Quadro-de-gr-fico-b-sico {
+	border-style:solid;
+}
+h1.fdnc_fdnc_h1 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:6px;
+	margin-left:23px;
+	margin-right:23px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+h2.fdnc_fdnc_h2 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:6px;
+	margin-left:23px;
+	margin-right:23px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.fdnc_fdnc_p {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.fdnc_fdnc_pTRa-ado {
+	background-color:#ffed00;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.fdnc_fdnc_pTRa-adoLinha {
+	border-color:#ffed00;
+	border-style:solid;
+	border-width:3px 3px 3px 3px;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.quebra {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+abbr.fdnc_fdnc_bold____correcao__-Cégos-__97b4eeda-bbc2-81e2-3d54-a462da66d0b8, span.fdnc_fdnc_bold____correcao__-Cégos-__97b4eeda-bbc2-81e2-3d54-a462da66d0b8 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-EDITÔRIAL-__8ec26596-f89a-c9f2-c41e-e2ded7361f44, span.fdnc_fdnc_bold____correcao__-EDITÔRIAL-__8ec26596-f89a-c9f2-c41e-e2ded7361f44 {
+	-epub-text-combine:none;
+	color:#f08820;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-Platafórma-__88d238c2-ef16-fa0e-4e32-760a8792561e, span.__correcao__-Platafórma-__88d238c2-ef16-fa0e-4e32-760a8792561e {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-acésse-__f70807cc-7704-bd34-45fa-d50279bcac7a, span.__correcao__-acésse-__f70807cc-7704-bd34-45fa-d50279bcac7a {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-apóie-__bfec2010-c9dc-1434-ead4-1f604c5809fc, span.__correcao__-apóie-__bfec2010-c9dc-1434-ead4-1f604c5809fc {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-asterísco-__36ee2022-1ec8-08f8-d964-7704bdd0254e, span.__correcao__-asterísco-__36ee2022-1ec8-08f8-d964-7704bdd0254e {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-bibliotécas-__12d23a92-3a5e-15ae-b402-8724c6d0126e, span.__correcao__-bibliotécas-__12d23a92-3a5e-15ae-b402-8724c6d0126e {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-cinco-cinco-quatro-zéro-nóve-nóve-nóve-__5c04a29a-b1f4-306e-2dc0-d07889a6a5ee, span.__correcao__-cinco-cinco-cinco-quatro-zéro-nóve-nóve-nóve-__5c04a29a-b1f4-306e-2dc0-d07889a6a5ee {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-huum-zéro-nóve-nóve-nóve-__2504e8fe-8a80-7404-0a3a-98b09de610d6, span.__correcao__-cinco-zéro-oito-huum-zéro-nóve-nóve-nóve-__2504e8fe-8a80-7404-0a3a-98b09de610d6 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-cinco-cinco-__d798d0b4-b4a2-32ee-f22e-5cd49f0e5fc6, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-cinco-cinco-__d798d0b4-b4a2-32ee-f22e-5cd49f0e5fc6 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-cinco-três-__591095ec-2d08-8288-a5f6-f2c8fe563f7c, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-cinco-três-__591095ec-2d08-8288-a5f6-f2c8fe563f7c {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__07388dfe-da4e-e356-ceb4-0816bcd601bc, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__07388dfe-da4e-e356-ceb4-0816bcd601bc {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__34b095cc-cd9c-371e-e0a4-674a2996c05c, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__34b095cc-cd9c-371e-e0a4-674a2996c05c {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__708a653c-1a46-5426-e472-1f2e3bf44f1c, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__708a653c-1a46-5426-e472-1f2e3bf44f1c {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__f85e295e-3084-8908-007c-367ee13e1510, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-nóve-__f85e295e-3084-8908-007c-367ee13e1510 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-oito-__b8e8fce2-54b4-25e2-dcd0-9b760c9a2bce, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-oito-__b8e8fce2-54b4-25e2-dcd0-9b760c9a2bce {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-zéro-__16189224-31a6-4f8e-da6e-7e626da693d6, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-nóve-zéro-__16189224-31a6-4f8e-da6e-7e626da693d6 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-seis-zéro-__d4f87838-5a30-fcf8-b6e8-ad26bda01484, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-seis-zéro-__d4f87838-5a30-fcf8-b6e8-ad26bda01484 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cinco-zéro-oito-séte-zéro-nóve-séte-huum-__d3860a34-baa4-da48-dd58-4f9c2250da12, span.__correcao__-cinco-zéro-oito-séte-zéro-nóve-séte-huum-__d3860a34-baa4-da48-dd58-4f9c2250da12 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-complétas-__48145d06-6230-ef1a-ba0e-af784a480f0a, span.__correcao__-complétas-__48145d06-6230-ef1a-ba0e-af784a480f0a {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-conecssão-__4cf03a42-c9ac-f336-d5a4-de0ecf0c1140, span.fdnc_fdnc_bold____correcao__-conecssão-__4cf03a42-c9ac-f336-d5a4-de0ecf0c1140 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.fdnc_fdnc_bold____correcao__-cégos-__6b28f1f2-77f4-c332-4494-267620925d60, span.fdnc_fdnc_bold____correcao__-cégos-__6b28f1f2-77f4-c332-4494-267620925d60 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cégos-__6f7a2944-63ca-ae70-ca36-4498a9c0c538, span.__correcao__-cégos-__6f7a2944-63ca-ae70-ca36-4498a9c0c538 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cégos-__d8e25396-b71c-ac02-1fca-3a62c0b483cc, span.__correcao__-cégos-__d8e25396-b71c-ac02-1fca-3a62c0b483cc {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-cégos-__ed4ed24e-c800-8f30-fda4-afa0458614aa, span.__correcao__-cégos-__ed4ed24e-c800-8f30-fda4-afa0458614aa {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-dirétos-__b13027e4-3c08-cb36-9dbe-7d56d2d08802, span.__correcao__-dirétos-__b13027e4-3c08-cb36-9dbe-7d56d2d08802 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-dois-__152eac74-d1c0-00e4-f53c-f64eaea0d168, span.__correcao__-dois-__152eac74-d1c0-00e4-f53c-f64eaea0d168 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-dêesse-__073a1ac8-f75c-8442-bc86-223c4368ef5c, span.__correcao__-dêesse-__073a1ac8-f75c-8442-bc86-223c4368ef5c {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-hêeh-__1f30d69c-ad7a-c6d2-60e0-20d8f5687dac, span.__correcao__-hêeh-__1f30d69c-ad7a-c6d2-60e0-20d8f5687dac {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-hêeh-__d35c360e-ebb6-84e6-10bc-556483d8649e, span.__correcao__-hêeh-__d35c360e-ebb6-84e6-10bc-556483d8649e {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-nóve-seis-zéro-cinco-séte-oito-seis-huum-zéro-__89b2eb66-acee-5ec4-e6de-7312e8d420d2, span.__correcao__-nóve-seis-zéro-cinco-séte-oito-seis-huum-zéro-__89b2eb66-acee-5ec4-e6de-7312e8d420d2 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-oferécem-__8bc2225c-b20c-2ce4-518a-6b782fe82e44, span.__correcao__-oferécem-__8bc2225c-b20c-2ce4-518a-6b782fe82e44 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-orçamento-asterísco-__a122b446-6792-a660-0344-b6947d124d32, span.__correcao__-orçamento-asterísco-__a122b446-6792-a660-0344-b6947d124d32 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-pódiquéstês-__a9bc67d4-2098-4d0c-b3cc-6a16fb0852a2, span.__correcao__-pódiquéstês-__a9bc67d4-2098-4d0c-b3cc-6a16fb0852a2 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-zéro-quatro-zéro-três-séte-zéro-zéro-huum-__bc162ab2-4bc0-4bce-a44e-89b6a22abea2, span.__correcao__-zéro-quatro-zéro-três-séte-zéro-zéro-huum-__bc162ab2-4bc0-4bce-a44e-89b6a22abea2 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__-óh-hêeh-dÊs-__a296192a-0772-3c6e-3c5c-04c4e450674a, span.__correcao__-óh-hêeh-dÊs-__a296192a-0772-3c6e-3c5c-04c4e450674a {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+abbr.__correcao__nóve-três-zéro-três-três-zéro-dois-séte-dois-__04d477c4-96ac-dca6-84fa-761a59c0a99c, span.__correcao__nóve-três-zéro-três-três-zéro-dois-séte-dois-__04d477c4-96ac-dca6-84fa-761a59c0a99c {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.fdnc_fdnc_bold {
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+}
+span.fdnc_fdnc_link {
+	color:#000000;
+	text-decoration:none;
+}
+
+abbr[data-abbrtype] {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+abbr[title] {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  cursor: help;
+}
+a:link { 
+text-decoration:none;
+color: #000; {
