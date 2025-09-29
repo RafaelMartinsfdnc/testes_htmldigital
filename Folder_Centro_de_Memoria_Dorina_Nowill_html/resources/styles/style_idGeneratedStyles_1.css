@@ -1,0 +1,130 @@
+h1.ParaOverride-1, p.ParaOverride-1, h2.ParaOverride-1 {
+	text-align:center;
+}
+span.CharOverride-1 {
+	font-size:1.847em;
+}
+span.CharOverride-2 {
+	color:#ffed00;
+}
+span.CharOverride-3 {
+	color:#ffed00;
+	font-family:Arial;
+}
+span.CharOverride-4 {
+	color:#ed9e5c;
+	font-family:Arial;
+}
+span.CharOverride-5 {
+	color:#ed9e5c;
+}
+p._idGenParaOverride-1 {
+	page-break-after:always;
+}
+span._idGenCharOverride-1 {
+	font-family:Arial;
+}
+img._idGenObjectAttribute-1 {
+	height:178px;
+	width:332px;
+}
+img._idGenObjectAttribute-2 {
+	height:267px;
+	width:386px;
+}
+img._idGenObjectAttribute-3 {
+	height:415px;
+	width:260px;
+}
+img._idGenObjectAttribute-4 {
+	height:122px;
+	width:122px;
+}
+img._idGenObjectAttribute-5 {
+	height:412px;
+	width:442px;
+}
+img._idGenObjectAttribute-6 {
+	height:340px;
+	width:266px;
+}
+img._idGenObjectAttribute-7 {
+	height:314px;
+	width:205px;
+}
+img._idGenObjectAttribute-8 {
+	height:63px;
+	width:442px;
+}
+img._idGenObjectAttribute-9 {
+	height:131px;
+	width:259px;
+}
+img._idGenObjectAttribute-10 {
+	height:63px;
+	width:58px;
+}
+img._idGenObjectAttribute-11 {
+	height:68px;
+	width:58px;
+}
+img._idGenObjectAttribute-12 {
+	height:248px;
+	width:124px;
+}
+img._idGenObjectAttribute-13 {
+	height:57px;
+	width:54px;
+}
+img._idGenObjectAttribute-14 {
+	height:59px;
+	width:56px;
+}
+img._idGenObjectAttribute-15 {
+	height:54px;
+	width:56px;
+}
+img._idGenObjectAttribute-16 {
+	height:55px;
+	width:55px;
+}
+img._idGenObjectAttribute-17 {
+	height:60px;
+	width:55px;
+}
+img._idGenObjectAttribute-18 {
+	height:83px;
+	width:215px;
+}
+img._idGenObjectAttribute-19 {
+	height:97px;
+	width:255px;
+}
+img._idGenObjectAttribute-20 {
+	height:83px;
+	width:155px;
+}
+img._idGenObjectAttribute-21 {
+	height:94px;
+	width:401px;
+}
+img._idGenObjectAttribute-22 {
+	height:54px;
+	width:442px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+abbr[data-abbrtype] {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+abbr[title] {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  cursor: help;
+}
+a:link { 
+text-decoration:none;
+color: #000; {
