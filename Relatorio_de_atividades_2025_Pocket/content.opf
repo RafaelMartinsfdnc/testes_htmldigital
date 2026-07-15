@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+   <meta name="cover" content="cover.jpeg"></meta>
+   <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+   <meta property="schema:accessibilityFeature">tableOfContents</meta>
+   <meta property="schema:accessibilityAPI">ARIA</meta>
+   <dc:title>Relatório de Atividades 2025 - Pocket</dc:title>
+   <dc:creator opf:role="aut" opf:file-as="Fundação Dorina Nowill para Cegos">Fundação Dorina Nowill para Cegos</dc:creator>
+   <dc:subject>Relatório de atividades</dc:subject>
+   <dc:description>Relatório de Atividades 2025 - Pocket</dc:description>
+   <dc:publisher>Fundação Dorina Nowill para Cegos</dc:publisher>
+   
+   <dc:date>2026</dc:date>
+   <dc:identifier>urn:isbn:0000000000000</dc:identifier>
+   <dc:language>pt-br</dc:language>
+   <x-metadata>
+    <EmbeddedCover>cover.jpeg</EmbeddedCover>
+   </x-metadata>
+  </metadata>
+  <manifest>
+   <item id="IMG22.png" href="resources/images/image_IMG22.png" media-type="image/png"></item>
+   <item id="IMG16.png" href="resources/images/image_IMG16.png" media-type="image/png"></item>
+   <item id="IMG13.png" href="resources/images/image_IMG13.png" media-type="image/png"></item>
+   <item id="IMG11.png" href="resources/images/image_IMG11.png" media-type="image/png"></item>
+   <item id="Image13267.png" href="resources/images/image_Image13267.png" media-type="image/png"></item>
+   <item id="x705131840a3b2f9894a2_image_img26.png" href="resources/images/image_img26.png" media-type="image/png"></item>
+   <item id="img25.png" href="resources/images/image_img25.png" media-type="image/png"></item>
+   <item id="Image13249.png" href="resources/images/image_Image13249.png" media-type="image/png"></item>
+   <item id="Image13115.png" href="resources/images/image_Image13115.png" media-type="image/png"></item>
+   <item id="Image12909.png" href="resources/images/image_Image12909.png" media-type="image/png"></item>
+   <item id="Arial-BoldItalicMT.ttf" href="resources/fonts/Arial-BoldItalicMT.ttf" media-type="font/ttf"></item>
+   <item id="Image12946.png" href="resources/images/image_Image12946.png" media-type="image/png"></item>
+   <item id="Image12900.png" href="resources/images/image_Image12900.png" media-type="image/png"></item>
+   <item id="Cover.jpg" href="resources/images/image_Cover.jpg" media-type="image/jpeg"></item>
+   <item id="Arial-BoldMT.ttf" href="resources/fonts/Arial-BoldMT.ttf" media-type="font/ttf"></item>
+   <item id="IMG23.png" href="resources/images/image_IMG23.png" media-type="image/png"></item>
+   <item id="IMG17.png" href="resources/images/image_IMG17.png" media-type="image/png"></item>
+   <item id="Image13283.png" href="resources/images/image_Image13283.png" media-type="image/png"></item>
+   <item id="Image13228.png" href="resources/images/image_Image13228.png" media-type="image/png"></item>
+   <item id="Image12892.png" href="resources/images/image_Image12892.png" media-type="image/png"></item>
+   <item id="IMG10.png" href="resources/images/image_IMG10.png" media-type="image/png"></item>
+   <item id="Image13298.png" href="resources/images/image_Image13298.png" media-type="image/png"></item>
+   <item id="Image13276.png" href="resources/images/image_Image13276.png" media-type="image/png"></item>
+   <item id="Image12939.png" href="resources/images/image_Image12939.png" media-type="image/png"></item>
+   <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
+   <item id="xArial-BoldItalic.ttf_3338162297873f7a8bb18099" href="resources/fonts/Arial-BoldItalic.ttf" media-type="font/ttf"></item>
+   <item id="xdcecb6ef5ff01778101a_image_img28.png" href="resources/images/image_img28.png" media-type="image/png"></item>
+   <item id="IMG19.png" href="resources/images/image_IMG19.png" media-type="image/png"></item>
+   <item id="style.css" href="resources/styles/style_style.css" media-type="text/css"></item>
+   <item id="Relatorio_de_atividades_2025_Pocket" href="content/Relatorio_de_atividades_2025_Pocket.html" media-type="text/html"></item>
+   <item id="IMG9.png" href="resources/images/image_IMG9.png" media-type="image/png"></item>
+   <item id="IMG5.png" href="resources/images/image_IMG5.png" media-type="image/png"></item>
+   <item id="Image13107.png" href="resources/images/image_Image13107.png" media-type="image/png"></item>
+   <item id="xArial-Italic.ttf_3337071e1daf2f53975f2f45" href="resources/fonts/Arial-Italic.ttf" media-type="font/ttf"></item>
+   <item id="Image13306.png" href="resources/images/image_Image13306.png" media-type="image/png"></item>
+   <item id="Image13123.png" href="resources/images/image_Image13123.png" media-type="image/png"></item>
+   <item id="Arial-ItalicMT.ttf" href="resources/fonts/Arial-ItalicMT.ttf" media-type="font/ttf"></item>
+   <item id="content" href="index.html" media-type="text/html" properties="nav"></item>
+   <item id="IMG24.png" href="resources/images/image_IMG24.png" media-type="image/png"></item>
+   <item id="Image13290.png" href="resources/images/image_Image13290.png" media-type="image/png"></item>
+   <item id="ArialMT.ttf" href="resources/fonts/ArialMT.ttf" media-type="font/ttf"></item>
+   <item id="IMG21.png" href="resources/images/image_IMG21.png" media-type="image/png"></item>
+   <item id="Image12953.png" href="resources/images/image_Image12953.png" media-type="image/png"></item>
+   <item id="IMG18.png" href="resources/images/image_IMG18.png" media-type="image/png"></item>
+   <item id="IMG1.png" href="resources/images/image_IMG1.png" media-type="image/png"></item>
+   <item id="idGeneratedStyles_0.css" href="resources/styles/style_idGeneratedStyles_0.css" media-type="text/css"></item>
+   <item id="Mapa.png" href="resources/images/image_Mapa.png" media-type="image/png"></item>
+   <item id="cover.jpeg" href="cover.jpeg" media-type="image/jpeg" properties="cover-image"></item>
+   <item id="idGeneratedStyles_1.css" href="resources/styles/style_idGeneratedStyles_1.css" media-type="text/css"></item>
+   <item id="IMG3.png" href="resources/images/image_IMG3.png" media-type="image/png"></item>
+   <item id="IMG231.png" href="resources/images/image_IMG231.png" media-type="image/png"></item>
+   <item id="Image12853.png" href="resources/images/image_Image12853.png" media-type="image/png"></item>
+   <item id="index.css" href="resources/styles/style_index.css" media-type="text/css"></item>
+   <item id="xArial-Regular.ttf_3430ee5a3b04604f5831c6f0" href="resources/fonts/Arial-Regular.ttf" media-type="font/ttf"></item>
+   <item id="IMG14.png" href="resources/images/image_IMG14.png" media-type="image/png"></item>
+   <item id="Image13259.png" href="resources/images/image_Image13259.png" media-type="image/png"></item>
+   <item id="cover" href="cover.jpeg" media-type="image/jpeg" properties="cover-image"></item>
+   <item id="IMG4.png" href="resources/images/image_IMG4.png" media-type="image/png"></item>
+   <item id="IMG2.png" href="resources/images/image_IMG2.png" media-type="image/png"></item>
+   <item id="IMG12.png" href="resources/images/image_IMG12.png" media-type="image/png"></item>
+   <item id="Image13238.png" href="resources/images/image_Image13238.png" media-type="image/png"></item>
+   <item id="xArial-Bold.ttf_3331555179b30f988c61fb90" href="resources/fonts/Arial-Bold.ttf" media-type="font/ttf"></item>
+   <item id="x1ce39f36f7bfa34185da_image_img27.png" href="resources/images/image_img27.png" media-type="image/png"></item>
+   <item id="xa486d83e96e24228b14d_image_Dorina.png" href="resources/images/image_Dorina.png" media-type="image/png"></item>
+  </manifest>
+  <spine toc="ncx">
+   <itemref idref="content"></itemref>
+   <itemref idref="cover" linear="no"></itemref>
+  </spine>
+  <guide>
+   <reference href="index.html#toc" type="toc" title="Table of Contents"></reference>
+  </guide>
+ </package>
