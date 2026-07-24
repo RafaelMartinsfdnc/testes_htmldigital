@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"/>		<title>Lista de links</title>		<link href="../resources/styles/style_idGeneratedStyles_0.css" rel="stylesheet" type="text/css"/>		<link href="../resources/styles/style_style.css" rel="stylesheet" type="text/css"/>		<link href="../resources/styles/style_index.css" rel="stylesheet" type="text/css"/>	<meta name="description" content="Relatório Anual 2025"/><meta name="author" content="Fundação Dorina Nowill para Cegos"/><meta name="robots" content="noindex, nofollow"/>					
+			<style id="head-style-h1-smargin">h1 {scroll-margin-top: 30px;}</style>
+		</head>	<body id="Creditos" lang="pt-br"><div itemscope="" itemtype="https://schema.org/Book "><meta itemprop="accessibilityFeature" content="highContrast/CSSEnabled"/><meta itemprop="accessibilityFeature" content="largePrint/CSSEnabled"/><meta itemprop="isbn" content="000000000000"/><meta itemprop="copyrightHolder" content="Fundação Dorina Nowill para Cegos"/><meta itemprop="copyrightYear" content="2026"/><meta itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="" content="Fundação Dorina Nowill para Cegos"/><meta itemprop="subject" content="Inclusão"/><meta itemprop="description" content="Relatório Anual 2025"/><meta itemprop="name" content="Relatório de Atividades 2025"/><meta itemprop="accessibilityControl" content="fullKeyboardControl"/><meta itemprop="accessibilityFeature" content="alternativeText"/><meta itemprop="accessibilityFeature" content="longDescription"/><meta itemprop="accessibilityFeature" content="displayTransformability"/><meta itemprop="accessibilityFeature" content="resizeText/CSSEnabled"/><meta itemprop="accessibilityFeature" content="highContrast/CSSEnabled"/></div><main>							<section><p class="fdnc_fdnc_p"> </p><h2 class="fdnc_fdnc_h2" id="idAutoGen_Creditos.xhtml-0">Lista de links</h2><p class="fdnc_fdnc_p"> </p><p class="fdnc_fdnc_p">PÁGINA 67.</p><p class="fdnc_fdnc_p"> </p><p class="fdnc_fdnc_p">Link original: fundacaodorina.org.br/a-fundacao/transparencia/balancos-patrimoniais/</p><p class="fdnc_fdnc_p"> </p><p class="fdnc_fdnc_p">Link encurtado: http://fdnc.io/mo4</p></section>																																				</main>
+	<script>
+
+    function adjustMathElements() {
+        const mathElements = document.querySelectorAll('math');
+
+        mathElements.forEach(math => {
+            const targetElement = math.firstElementChild?.tagName === 'mrow' ?
+                math.firstElementChild :
+                math;
+
+            const width = targetElement.getBoundingClientRect().width;
+
+            const section = document.querySelector('main > section')
+            const sectionWidth = section.getBoundingClientRect().width;
+
+            const ratio = width + 50 / sectionWidth;
+
+            if (width > sectionWidth - 24) {
+                const ratio = (sectionWidth - 24) / (width + 50);
+                const fontSize = Math.max(0.8, ratio * 1.9);
+                targetElement.style.fontSize = `${fontSize}dvh `;
+
+                const newWidth = targetElement.getBoundingClientRect().width;
+                if (newWidth > sectionWidth - 24) {
+                    const additionalRatio = (sectionWidth - 24) / newWidth;
+                    targetElement.style.fontSize =`${fontSize * additionalRatio}dvh`;
+                }
+            }
+
+        })
+    }
+    document.addEventListener('DOMContentLoaded', adjustMathElements)
+
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+
+            console.log('Resize ended!');
+            adjustMathElements()
+        }, 500);
+    });
+</script>
+	</body></html>
