@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+   <meta name="cover" content="cover.jpeg"></meta>
+   <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+   <meta property="schema:accessibilityFeature">tableOfContents</meta>
+   <meta property="schema:accessibilityAPI">ARIA</meta>
+   <dc:title>Activity Report 2025</dc:title>
+   <dc:creator opf:role="aut"></dc:creator>
+   <dc:subject></dc:subject>
+   <dc:description></dc:description>
+   <dc:publisher>NEXTPAGE</dc:publisher>
+   
+   <dc:date>2026</dc:date>
+   <dc:identifier>urn:isbn:</dc:identifier>
+   <dc:language></dc:language>
+   <x-metadata>
+    <EmbeddedCover>cover.jpeg</EmbeddedCover>
+   </x-metadata>
+  </metadata>
+  <manifest>
+   <item id="Image24460.png" href="resources/images/image_Image24460.png" media-type="image/png"></item>
+   <item id="Image24112.png" href="resources/images/image_Image24112.png" media-type="image/png"></item>
+   <item id="Image23914.png" href="resources/images/image_Image23914.png" media-type="image/png"></item>
+   <item id="Image23467.png" href="resources/images/image_Image23467.png" media-type="image/png"></item>
+   <item id="Image24486.png" href="resources/images/image_Image24486.png" media-type="image/png"></item>
+   <item id="Image24469.png" href="resources/images/image_Image24469.png" media-type="image/png"></item>
+   <item id="Image24408.png" href="resources/images/image_Image24408.png" media-type="image/png"></item>
+   <item id="Image23929.png" href="resources/images/image_Image23929.png" media-type="image/png"></item>
+   <item id="Image14429.png" href="resources/images/image_Image14429.png" media-type="image/png"></item>
+   <item id="Arial-BoldItalicMT.ttf" href="resources/fonts/Arial-BoldItalicMT.ttf" media-type="font/ttf"></item>
+   <item id="Annual_Report_2025" href="content/Annual_Report_2025.html" media-type="text/html"></item>
+   <item id="Image23836.png" href="resources/images/image_Image23836.png" media-type="image/png"></item>
+   <item id="Image23633.png" href="resources/images/image_Image23633.png" media-type="image/png"></item>
+   <item id="Image24921.png" href="resources/images/image_Image24921.png" media-type="image/png"></item>
+   <item id="Image24447.png" href="resources/images/image_Image24447.png" media-type="image/png"></item>
+   <item id="Image23922.png" href="resources/images/image_Image23922.png" media-type="image/png"></item>
+   <item id="Image23717.png" href="resources/images/image_Image23717.png" media-type="image/png"></item>
+   <item id="Image24085.png" href="resources/images/image_Image24085.png" media-type="image/png"></item>
+   <item id="Image23789.png" href="resources/images/image_Image23789.png" media-type="image/png"></item>
+   <item id="Image23679.png" href="resources/images/image_Image23679.png" media-type="image/png"></item>
+   <item id="Image24541.png" href="resources/images/image_Image24541.png" media-type="image/png"></item>
+   <item id="Image24524.png" href="resources/images/image_Image24524.png" media-type="image/png"></item>
+   <item id="Image23989.png" href="resources/images/image_Image23989.png" media-type="image/png"></item>
+   <item id="Image23976.png" href="resources/images/image_Image23976.png" media-type="image/png"></item>
+   <item id="Image23765.png" href="resources/images/image_Image23765.png" media-type="image/png"></item>
+   <item id="Image24039.png" href="resources/images/image_Image24039.png" media-type="image/png"></item>
+   <item id="Image24897.png" href="resources/images/image_Image24897.png" media-type="image/png"></item>
+   <item id="Image24135.png" href="resources/images/image_Image24135.png" media-type="image/png"></item>
+   <item id="Image23475.png" href="resources/images/image_Image23475.png" media-type="image/png"></item>
+   <item id="x1.png" href="resources/images/image_1.png" media-type="image/png"></item>
+   <item id="cover" href="cover.jpeg" media-type="image/jpeg" properties="cover-image"></item>
+   <item id="Image24385.png" href="resources/images/image_Image24385.png" media-type="image/png"></item>
+   <item id="Image23613.png" href="resources/images/image_Image23613.png" media-type="image/png"></item>
+   <item id="x2.png" href="resources/images/image_2.png" media-type="image/png"></item>
+   <item id="content" href="index.html" media-type="text/html" properties="nav"></item>
+   <item id="Image24501.png" href="resources/images/image_Image24501.png" media-type="image/png"></item>
+   <item id="Image24345.png" href="resources/images/image_Image24345.png" media-type="image/png"></item>
+   <item id="Image24047.png" href="resources/images/image_Image24047.png" media-type="image/png"></item>
+   <item id="Image23860.png" href="resources/images/image_Image23860.png" media-type="image/png"></item>
+   <item id="Image23757.png" href="resources/images/image_Image23757.png" media-type="image/png"></item>
+   <item id="xffa9348dab5461d8bfa8_Arial-BoldMT.ttf" href="/tmp/8504678c-cf7f-4367-882d-d5ae21863982/a8b21293-7c73-47fc-9ea9-4cec9cf2a601/015227d7-ed2e-469f-864f-e4cca5ad2143/resources/fonts/Arial-BoldMT.ttf" media-type="font/ttf"></item>
+   <item id="Image24493.png" href="resources/images/image_Image24493.png" media-type="image/png"></item>
+   <item id="Image24376.png" href="resources/images/image_Image24376.png" media-type="image/png"></item>
+   <item id="Image24158.png" href="resources/images/image_Image24158.png" media-type="image/png"></item>
+   <item id="Image24127.png" href="resources/images/image_Image24127.png" media-type="image/png"></item>
+   <item id="Image24030.png" href="resources/images/image_Image24030.png" media-type="image/png"></item>
+   <item id="Image23844.png" href="resources/images/image_Image23844.png" media-type="image/png"></item>
+   <item id="Image23829.png" href="resources/images/image_Image23829.png" media-type="image/png"></item>
+   <item id="Image24431.png" href="resources/images/image_Image24431.png" media-type="image/png"></item>
+   <item id="Image23664.png" href="resources/images/image_Image23664.png" media-type="image/png"></item>
+   <item id="Image23624.png" href="resources/images/image_Image23624.png" media-type="image/png"></item>
+   <item id="x3.png" href="resources/images/image_3.png" media-type="image/png"></item>
+   <item id="Image24354.png" href="resources/images/image_Image24354.png" media-type="image/png"></item>
+   <item id="Image24119.png" href="resources/images/image_Image24119.png" media-type="image/png"></item>
+   <item id="Image24061.png" href="resources/images/image_Image24061.png" media-type="image/png"></item>
+   <item id="Image23506.png" href="resources/images/image_Image23506.png" media-type="image/png"></item>
+   <item id="Image23802.png" href="resources/images/image_Image23802.png" media-type="image/png"></item>
+   <item id="Image23648.png" href="resources/images/image_Image23648.png" media-type="image/png"></item>
+   <item id="xca8504e96137c32f09af_Arial-BoldItalicMT.ttf" href="/tmp/8504678c-cf7f-4367-882d-d5ae21863982/a8b21293-7c73-47fc-9ea9-4cec9cf2a601/015227d7-ed2e-469f-864f-e4cca5ad2143/resources/fonts/Arial-BoldItalicMT.ttf" media-type="font/ttf"></item>
+   <item id="Image24151.png" href="resources/images/image_Image24151.png" media-type="image/png"></item>
+   <item id="Image23577.png" href="resources/images/image_Image23577.png" media-type="image/png"></item>
+   <item id="Image23460.png" href="resources/images/image_Image23460.png" media-type="image/png"></item>
+   <item id="Image24517.png" href="resources/images/image_Image24517.png" media-type="image/png"></item>
+   <item id="Image23726.png" href="resources/images/image_Image23726.png" media-type="image/png"></item>
+   <item id="Image23641.png" href="resources/images/image_Image23641.png" media-type="image/png"></item>
+   <item id="Image24953.png" href="resources/images/image_Image24953.png" media-type="image/png"></item>
+   <item id="Image23953.png" href="resources/images/image_Image23953.png" media-type="image/png"></item>
+   <item id="Image23852.png" href="resources/images/image_Image23852.png" media-type="image/png"></item>
+   <item id="Image23686.png" href="resources/images/image_Image23686.png" media-type="image/png"></item>
+   <item id="Image24393.png" href="resources/images/image_Image24393.png" media-type="image/png"></item>
+   <item id="Image24054.png" href="resources/images/image_Image24054.png" media-type="image/png"></item>
+   <item id="Image23937.png" href="resources/images/image_Image23937.png" media-type="image/png"></item>
+   <item id="Image23811.png" href="resources/images/image_Image23811.png" media-type="image/png"></item>
+   <item id="Image23672.png" href="resources/images/image_Image23672.png" media-type="image/png"></item>
+   <item id="cover.jpeg" href="cover.jpeg" media-type="image/jpeg" properties="cover-image"></item>
+   <item id="Image24888.png" href="resources/images/image_Image24888.png" media-type="image/png"></item>
+   <item id="Image24367.png" href="resources/images/image_Image24367.png" media-type="image/png"></item>
+   <item id="Image23499.png" href="resources/images/image_Image23499.png" media-type="image/png"></item>
+   <item id="idGeneratedStyles_0.css" href="resources/styles/style_idGeneratedStyles_0.css" media-type="text/css"></item>
+   <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"></item>
+   <item id="Image24104.png" href="resources/images/image_Image24104.png" media-type="image/png"></item>
+   <item id="Image23874.png" href="resources/images/image_Image23874.png" media-type="image/png"></item>
+   <item id="Image24509.png" href="resources/images/image_Image24509.png" media-type="image/png"></item>
+   <item id="Image23561.png" href="resources/images/image_Image23561.png" media-type="image/png"></item>
+   <item id="Image23695.png" href="resources/images/image_Image23695.png" media-type="image/png"></item>
+   <item id="Image24022.png" href="resources/images/image_Image24022.png" media-type="image/png"></item>
+   <item id="Image23741.png" href="resources/images/image_Image23741.png" media-type="image/png"></item>
+   <item id="Image23708.png" href="resources/images/image_Image23708.png" media-type="image/png"></item>
+   <item id="Image14515.png" href="resources/images/image_Image14515.png" media-type="image/png"></item>
+   <item id="ArialMT.ttf" href="resources/fonts/ArialMT.ttf" media-type="font/ttf"></item>
+   <item id="idGeneratedStyles_1.css" href="resources/styles/style_idGeneratedStyles_1.css" media-type="text/css"></item>
+   <item id="Image24946.png" href="resources/images/image_Image24946.png" media-type="image/png"></item>
+   <item id="Image24938.png" href="resources/images/image_Image24938.png" media-type="image/png"></item>
+   <item id="Image24906.png" href="resources/images/image_Image24906.png" media-type="image/png"></item>
+   <item id="Image24400.png" href="resources/images/image_Image24400.png" media-type="image/png"></item>
+   <item id="Image23896.png" href="resources/images/image_Image23896.png" media-type="image/png"></item>
+   <item id="Image23883.png" href="resources/images/image_Image23883.png" media-type="image/png"></item>
+   <item id="Image23821.png" href="resources/images/image_Image23821.png" media-type="image/png"></item>
+   <item id="Image23772.png" href="resources/images/image_Image23772.png" media-type="image/png"></item>
+   <item id="Image23734.png" href="resources/images/image_Image23734.png" media-type="image/png"></item>
+   <item id="Image23569.png" href="resources/images/image_Image23569.png" media-type="image/png"></item>
+   <item id="Image23490.png" href="resources/images/image_Image23490.png" media-type="image/png"></item>
+   <item id="Image24424.png" href="resources/images/image_Image24424.png" media-type="image/png"></item>
+   <item id="Image12953.png" href="resources/images/image_Image12953.png" media-type="image/png"></item>
+   <item id="Image24189.png" href="resources/images/image_Image24189.png" media-type="image/png"></item>
+   <item id="Image23867.png" href="resources/images/image_Image23867.png" media-type="image/png"></item>
+   <item id="Image23521.png" href="resources/images/image_Image23521.png" media-type="image/png"></item>
+   <item id="Image23905.png" href="resources/images/image_Image23905.png" media-type="image/png"></item>
+   <item id="Image23591.png" href="resources/images/image_Image23591.png" media-type="image/png"></item>
+   <item id="Image23584.png" href="resources/images/image_Image23584.png" media-type="image/png"></item>
+   <item id="Image23483.png" href="resources/images/image_Image23483.png" media-type="image/png"></item>
+   <item id="Image23554.png" href="resources/images/image_Image23554.png" media-type="image/png"></item>
+   <item id="Image23529.png" href="resources/images/image_Image23529.png" media-type="image/png"></item>
+   <item id="Image24438.png" href="resources/images/image_Image24438.png" media-type="image/png"></item>
+   <item id="Image24416.png" href="resources/images/image_Image24416.png" media-type="image/png"></item>
+   <item id="Image24144.png" href="resources/images/image_Image24144.png" media-type="image/png"></item>
+   <item id="Image23749.png" href="resources/images/image_Image23749.png" media-type="image/png"></item>
+   <item id="xc12333fda3c9d3ae117a_ArialMT.ttf" href="/tmp/8504678c-cf7f-4367-882d-d5ae21863982/a8b21293-7c73-47fc-9ea9-4cec9cf2a601/015227d7-ed2e-469f-864f-e4cca5ad2143/resources/fonts/ArialMT.ttf" media-type="font/ttf"></item>
+   <item id="Image24180.png" href="resources/images/image_Image24180.png" media-type="image/png"></item>
+   <item id="Image23967.png" href="resources/images/image_Image23967.png" media-type="image/png"></item>
+   <item id="Image23600.png" href="resources/images/image_Image23600.png" media-type="image/png"></item>
+   <item id="Image23538.png" href="resources/images/image_Image23538.png" media-type="image/png"></item>
+   <item id="Image24478.png" href="resources/images/image_Image24478.png" media-type="image/png"></item>
+   <item id="Image24095.png" href="resources/images/image_Image24095.png" media-type="image/png"></item>
+   <item id="Image24070.png" href="resources/images/image_Image24070.png" media-type="image/png"></item>
+   <item id="Image23779.png" href="resources/images/image_Image23779.png" media-type="image/png"></item>
+   <item id="Image23656.png" href="resources/images/image_Image23656.png" media-type="image/png"></item>
+   <item id="Image23547.png" href="resources/images/image_Image23547.png" media-type="image/png"></item>
+   <item id="Arial-BoldMT.ttf" href="resources/fonts/Arial-BoldMT.ttf" media-type="font/ttf"></item>
+   <item id="Creditos" href="content/Creditos.html" media-type="text/html"></item>
+   <item id="xd5afe091dd6d3ef27a82_style_index.css" href="resources/styles/style_index.css" media-type="text/css"></item>
+   <item id="Image24914.png" href="resources/images/image_Image24914.png" media-type="image/png"></item>
+   <item id="Image24531.png" href="resources/images/image_Image24531.png" media-type="image/png"></item>
+   <item id="Image24167.png" href="resources/images/image_Image24167.png" media-type="image/png"></item>
+   <item id="Image23513.png" href="resources/images/image_Image23513.png" media-type="image/png"></item>
+   <item id="Image24930.png" href="resources/images/image_Image24930.png" media-type="image/png"></item>
+  </manifest>
+  <spine toc="ncx">
+   <itemref idref="content"></itemref>
+   <itemref idref="cover" linear="no"></itemref>
+  </spine>
+  <guide>
+   <reference href="index.html#toc" type="toc" title="Table of Contents"></reference>
+  </guide>
+ </package>

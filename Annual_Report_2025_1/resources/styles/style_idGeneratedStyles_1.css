@@ -1,0 +1,1666 @@
+
+
+table.TableOverride-1 {
+  border-collapse: collapse;
+  border-width: 1px;
+  margin-left: 22px;
+  margin-right: 22px;
+}
+
+
+td.CellOverride-1 {
+  background-color: #fccd8c;
+  vertical-align: middle;
+}
+
+
+td.CellOverride-2 {
+  vertical-align: middle;
+}
+
+
+td.CellOverride-3 {
+  background-color: #ffde0c;
+  vertical-align: middle;
+}
+
+
+td.CellOverride-4 {
+  background-color: #f59e30;
+  vertical-align: middle;
+}
+
+
+td.CellOverride-5 {
+  background-color: #d66c2a;
+  vertical-align: middle;
+}
+
+
+p.ParaOverride-1 {
+  -epub-text-align-last: left;
+  text-align-last: left;
+  margin-top: 2.417em;
+  page-break-after: always;
+  text-align: justify;
+}
+
+
+p.ParaOverride-2 {
+  -epub-text-align-last: left;
+  text-align-last: left;
+
+  margin-top: 2.417em;
+  text-align: justify;
+}
+
+h2.ParaOverride-3,
+
+
+p.ParaOverride-3 {
+  text-align: center;
+}
+
+
+p.ParaOverride-4 {
+  -epub-text-align-last: left;
+  text-align-last: left;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  text-align: justify;
+}
+
+
+p.ParaOverride-5 {
+  margin-top: 2.417em;
+  text-align: center;
+}
+
+
+span.CharOverride-1 {
+  font-family: Arial;
+}
+
+
+span.CharOverride-2 {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+
+span.CharOverride-3 {
+  font-family: Arial;
+  font-size: 16px;
+}
+
+
+span.CharOverride-4 {
+  font-family: Arial;
+  font-size: 9px;
+}
+
+
+span.CharOverride-5 {
+  font-family: Arial;
+  font-size: 58%;
+  vertical-align: super;
+}
+
+
+span.CharOverride-6 {
+  font-size: 58%;
+  vertical-align: super;
+}
+
+
+span.CharOverride-7 {
+  color: #ffffff;
+  font-family: Arial;
+}
+
+
+span.CharOverride-8 {
+  color: #ffffff;
+}
+
+
+span.CharOverride-9 {
+  color: #000000;
+}
+
+
+p._idGenParaOverride-1 {
+  page-break-after: always;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  span._idGenCharOverride-1,
+
+span._idGenCharOverride-1 {
+  font-family: Arial;
+}
+
+
+table._idGenTablePara-1 {
+  margin-left: 22px;
+  margin-right: 22px;
+}
+
+
+#_idContainer007 {
+  max-width: 27.17em;
+}
+
+#_idContainer014,
+
+
+#_idContainer168 {
+  max-width: 29.75em;
+}
+
+
+#_idContainer015 {
+  max-width: 23.17em;
+}
+
+
+#_idContainer016 {
+  max-width: 21.75em;
+}
+
+#_idContainer017,
+
+#_idContainer025,
+
+#_idContainer032,
+
+#_idContainer055,
+
+#_idContainer064,
+
+#_idContainer072,
+
+#_idContainer081,
+
+#_idContainer082,
+
+#_idContainer104,
+
+#_idContainer106,
+
+#_idContainer117,
+
+#_idContainer119,
+
+#_idContainer122,
+
+#_idContainer125,
+
+#_idContainer126,
+
+#_idContainer131,
+
+#_idContainer141,
+
+#_idContainer150,
+
+#_idContainer155,
+
+#_idContainer156,
+
+#_idContainer162,
+
+#_idContainer175,
+
+#_idContainer177,
+
+#_idContainer186,
+
+#_idContainer187,
+
+#_idContainer190,
+
+#_idContainer193,
+
+#_idContainer213,
+
+#_idContainer214,
+
+#_idContainer215,
+
+#_idContainer216,
+
+#_idContainer217,
+
+#_idContainer218,
+
+#_idContainer220,
+
+#_idContainer221,
+
+#_idContainer228,
+
+#_idContainer229,
+
+#_idContainer230,
+
+#_idContainer240,
+
+
+#_idContainer241 {
+  max-width: 77.33em;
+}
+
+
+#_idContainer027 {
+  max-width: 10.92em;
+}
+
+#_idContainer029,
+
+
+#_idContainer050 {
+  max-width: 17.58em;
+}
+
+
+#_idContainer031 {
+  max-width: 18.83em;
+}
+
+
+#_idContainer038 {
+  max-width: 27.42em;
+}
+
+
+#_idContainer040 {
+  max-width: 24.67em;
+}
+
+
+#_idContainer042 {
+  max-width: 23.08em;
+}
+
+
+#_idContainer044 {
+  max-width: 26.67em;
+}
+
+
+#_idContainer046 {
+  max-width: 25.67em;
+}
+
+#_idContainer048,
+
+
+#_idContainer085 {
+  max-width: 22.92em;
+}
+
+
+#_idContainer052 {
+  max-width: 30em;
+}
+
+
+#_idContainer054 {
+  max-width: 35.92em;
+}
+
+
+#_idContainer057 {
+  max-width: 45.58em;
+}
+
+
+#_idContainer059 {
+  max-width: 68.5em;
+}
+
+
+#_idContainer061 {
+  max-width: 57.92em;
+}
+
+
+#_idContainer063 {
+  max-width: 43.42em;
+}
+
+
+#_idContainer067 {
+  max-width: 23.25em;
+}
+
+
+#_idContainer069 {
+  max-width: 12.33em;
+}
+
+
+#_idContainer071 {
+  max-width: 40.25em;
+}
+
+
+#_idContainer076 {
+  max-width: 29.92em;
+}
+
+
+#_idContainer078 {
+  max-width: 35.42em;
+}
+
+
+#_idContainer080 {
+  max-width: 19.67em;
+}
+
+#_idContainer087,
+
+
+#_idContainer091 {
+  max-width: 22.83em;
+}
+
+
+#_idContainer089 {
+  max-width: 32.08em;
+}
+
+
+#_idContainer093 {
+  max-width: 17em;
+}
+
+
+#_idContainer095 {
+  max-width: 22.5em;
+}
+
+
+#_idContainer097 {
+  max-width: 20.58em;
+}
+
+
+#_idContainer099 {
+  max-width: 16.83em;
+}
+
+
+#_idContainer101 {
+  max-width: 37.92em;
+}
+
+
+#_idContainer103 {
+  max-width: 35.67em;
+}
+
+
+#_idContainer110 {
+  max-width: 12.42em;
+}
+
+
+#_idContainer112 {
+  max-width: 13.83em;
+}
+
+#_idContainer114,
+
+
+#_idContainer191 {
+  max-width: 19.08em;
+}
+
+
+#_idContainer116 {
+  max-width: 37.58em;
+}
+
+
+#_idContainer121 {
+  max-width: 13.75em;
+}
+
+
+#_idContainer124 {
+  max-width: 20.33em;
+}
+
+
+#_idContainer128 {
+  max-width: 21.67em;
+}
+
+
+#_idContainer130 {
+  max-width: 30.83em;
+}
+
+
+#_idContainer134 {
+  max-width: 22.33em;
+}
+
+
+#_idContainer136 {
+  max-width: 27.33em;
+}
+
+
+#_idContainer138 {
+  max-width: 41.67em;
+}
+
+
+#_idContainer140 {
+  max-width: 32.5em;
+}
+
+
+#_idContainer143 {
+  max-width: 36.08em;
+}
+
+
+#_idContainer145 {
+  max-width: 46.08em;
+}
+
+
+#_idContainer147 {
+  max-width: 49.08em;
+}
+
+
+#_idContainer149 {
+  max-width: 36.17em;
+}
+
+
+#_idContainer164 {
+  max-width: 15.5em;
+}
+
+
+#_idContainer166 {
+  max-width: 41.58em;
+}
+
+
+#_idContainer170 {
+  max-width: 62.75em;
+}
+
+
+#_idContainer172 {
+  max-width: 46em;
+}
+
+
+#_idContainer174 {
+  max-width: 38.08em;
+}
+
+
+#_idContainer184 {
+  max-width: 76.38em;
+}
+
+
+#_idContainer188 {
+  max-width: 14.5em;
+}
+
+
+#_idContainer189 {
+  max-width: 28.92em;
+}
+
+
+#_idContainer192 {
+  max-width: 66em;
+}
+
+#_idContainer196,
+
+#_idContainer198,
+
+#_idContainer224,
+
+
+#_idContainer226 {
+  max-width: 12.12em;
+}
+
+
+#_idContainer210 {
+  max-width: 75.5em;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-1,
+
+img._idGenObjectAttribute-1 {
+  width: 56.41%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-2,
+
+img._idGenObjectAttribute-2 {
+  width: 17.05%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-3,
+
+img._idGenObjectAttribute-3 {
+  width: 44.37%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-4,
+
+img._idGenObjectAttribute-4 {
+  width: 53.26%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-5,
+
+img._idGenObjectAttribute-5 {
+  width: 36.13%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-6,
+
+img._idGenObjectAttribute-6 {
+  width: 54.55%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-7,
+
+img._idGenObjectAttribute-7 {
+  width: 33.46%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-8,
+
+img._idGenObjectAttribute-8 {
+  width: 80.46%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-9,
+
+img._idGenObjectAttribute-9 {
+  width: 30.71%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-10,
+
+img._idGenObjectAttribute-10 {
+  width: 71.63%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-11,
+
+img._idGenObjectAttribute-11 {
+  width: 18.6%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-12,
+
+img._idGenObjectAttribute-12 {
+  width: 53.83%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-13,
+
+img._idGenObjectAttribute-13 {
+  width: 33.38%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-14,
+
+img._idGenObjectAttribute-14 {
+  width: 70.34%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-15,
+
+img._idGenObjectAttribute-15 {
+  width: 51.72%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-16,
+
+img._idGenObjectAttribute-16 {
+  width: 50.7%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-17,
+
+img._idGenObjectAttribute-17 {
+  width: 71.72%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-18,
+
+img._idGenObjectAttribute-18 {
+  width: 65.76%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-19,
+
+img._idGenObjectAttribute-19 {
+  width: 17.13%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-20,
+
+img._idGenObjectAttribute-20 {
+  width: 15.76%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-21,
+
+img._idGenObjectAttribute-21 {
+  width: 14.79%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-22,
+
+img._idGenObjectAttribute-22 {
+  width: 75.21%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-23,
+
+img._idGenObjectAttribute-23 {
+  width: 83.09%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-24,
+
+img._idGenObjectAttribute-24 {
+  width: 70.85%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-25,
+
+img._idGenObjectAttribute-25 {
+  width: 65.47%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-26,
+
+img._idGenObjectAttribute-26 {
+  width: 13.5%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-27,
+
+img._idGenObjectAttribute-27 {
+  width: 14.47%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-28,
+
+img._idGenObjectAttribute-28 {
+  width: 14.06%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-29,
+
+img._idGenObjectAttribute-29 {
+  width: 13.9%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-30,
+
+img._idGenObjectAttribute-30 {
+  width: 14.14%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-31,
+
+img._idGenObjectAttribute-31 {
+  width: 12.28%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-32,
+
+img._idGenObjectAttribute-32 {
+  width: 13.74%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-33,
+
+img._idGenObjectAttribute-33 {
+  width: 15.6%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-34,
+
+img._idGenObjectAttribute-34 {
+  width: 16.49%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-35,
+
+img._idGenObjectAttribute-35 {
+  width: 20.69%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-36,
+
+img._idGenObjectAttribute-36 {
+  width: 18.43%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-37,
+
+img._idGenObjectAttribute-37 {
+  width: 19.8%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-38,
+
+img._idGenObjectAttribute-38 {
+  width: 56.33%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-39,
+
+img._idGenObjectAttribute-39 {
+  width: 14.3%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-40,
+
+img._idGenObjectAttribute-40 {
+  width: 15.68%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-41,
+
+img._idGenObjectAttribute-41 {
+  width: 69.34%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-42,
+
+img._idGenObjectAttribute-42 {
+  width: 68.49%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-43,
+
+img._idGenObjectAttribute-43 {
+  width: 12.77%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-44,
+
+img._idGenObjectAttribute-44 {
+  width: 13.98%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-45,
+
+img._idGenObjectAttribute-45 {
+  width: 73.58%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-46,
+
+img._idGenObjectAttribute-46 {
+  width: 13.09%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-47,
+
+img._idGenObjectAttribute-47 {
+  width: 15.44%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-48,
+
+img._idGenObjectAttribute-48 {
+  width: 14.39%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-49,
+
+img._idGenObjectAttribute-49 {
+  width: 15.52%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-50,
+
+img._idGenObjectAttribute-50 {
+  width: 12.12%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-51,
+
+img._idGenObjectAttribute-51 {
+  width: 14.63%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-52,
+
+img._idGenObjectAttribute-52 {
+  width: 12.69%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-53,
+
+img._idGenObjectAttribute-53 {
+  width: 50.21%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-54,
+
+img._idGenObjectAttribute-54 {
+  width: 53.5%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-55,
+
+img._idGenObjectAttribute-55 {
+  width: 7.19%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-56,
+
+img._idGenObjectAttribute-56 {
+  width: 53.28%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-57,
+
+img._idGenObjectAttribute-57 {
+  width: 10.18%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-58,
+
+img._idGenObjectAttribute-58 {
+  width: 10.1%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-59,
+
+img._idGenObjectAttribute-59 {
+  width: 85.42%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-60,
+
+img._idGenObjectAttribute-60 {
+  width: 10.67%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-61,
+
+img._idGenObjectAttribute-61 {
+  width: 10.68%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-62,
+
+img._idGenObjectAttribute-62 {
+  width: 59.76%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-63,
+
+img._idGenObjectAttribute-63 {
+  width: 80.55%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-64,
+
+img._idGenObjectAttribute-64 {
+  width: 73.31%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-65,
+
+img._idGenObjectAttribute-65 {
+  width: 53.02%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-66,
+
+img._idGenObjectAttribute-66 {
+  width: 74.09%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-67,
+
+img._idGenObjectAttribute-67 {
+  width: 83.99%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-68,
+
+img._idGenObjectAttribute-68 {
+  width: 81.13%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-69,
+
+img._idGenObjectAttribute-69 {
+  width: 85.94%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-70,
+
+img._idGenObjectAttribute-70 {
+  width: 85.63%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-71,
+
+img._idGenObjectAttribute-71 {
+  width: 9.21%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-72,
+
+img._idGenObjectAttribute-72 {
+  width: 9.54%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-73,
+
+img._idGenObjectAttribute-73 {
+  width: 8.73%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-74,
+
+img._idGenObjectAttribute-74 {
+  width: 8.16%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-75,
+
+img._idGenObjectAttribute-75 {
+  width: 8.08%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-76,
+
+img._idGenObjectAttribute-76 {
+  width: 8.81%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-77,
+
+img._idGenObjectAttribute-77 {
+  width: 86.5%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-78,
+
+img._idGenObjectAttribute-78 {
+  height: 118px;
+  width: 342px;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-79,
+
+img._idGenObjectAttribute-79 {
+  height: 89px;
+  width: 808px;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-80,
+
+img._idGenObjectAttribute-80 {
+  height: 275px;
+  width: 798px;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-81,
+
+img._idGenObjectAttribute-81 {
+  height: 402px;
+  width: 828px;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-82,
+
+img._idGenObjectAttribute-82 {
+  width: 79.05%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-83,
+
+img._idGenObjectAttribute-83 {
+  width: 81.59%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-84,
+
+img._idGenObjectAttribute-84 {
+  width: 16.65%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-85,
+
+img._idGenObjectAttribute-85 {
+  width: 88.24%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-86,
+
+img._idGenObjectAttribute-86 {
+  width: 88.3%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-87,
+
+img._idGenObjectAttribute-87 {
+  width: 68.7%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-88,
+
+img._idGenObjectAttribute-88 {
+  width: 76.06%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-89,
+
+img._idGenObjectAttribute-89 {
+  width: 18.29%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-90,
+
+img._idGenObjectAttribute-90 {
+  width: 18.38%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-91,
+
+img._idGenObjectAttribute-91 {
+  width: 18.05%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-92,
+
+img._idGenObjectAttribute-92 {
+  width: 18.21%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-93,
+
+img._idGenObjectAttribute-93 {
+  width: 18.13%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-94,
+
+img._idGenObjectAttribute-94 {
+  width: 18.46%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-95,
+
+img._idGenObjectAttribute-95 {
+  width: 75.16%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-96,
+
+img._idGenObjectAttribute-96 {
+  width: 63.31%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-97,
+
+img._idGenObjectAttribute-97 {
+  width: 69.66%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-98,
+
+img._idGenObjectAttribute-98 {
+  width: 51.97%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-99,
+
+img._idGenObjectAttribute-99 {
+  width: 67.67%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-100,
+
+img._idGenObjectAttribute-100 {
+  width: 74.14%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-101,
+
+img._idGenObjectAttribute-101 {
+  width: 74.42%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-102,
+
+img._idGenObjectAttribute-102 {
+  width: 78.41%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-103,
+
+img._idGenObjectAttribute-103 {
+  width: 12.45%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-104,
+
+img._idGenObjectAttribute-104 {
+  width: 52.69%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-105,
+
+img._idGenObjectAttribute-105 {
+  width: 52.68%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-106,
+
+img._idGenObjectAttribute-106 {
+  width: 17.34%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-107,
+
+img._idGenObjectAttribute-107 {
+  width: 14.71%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  img._idGenObjectAttribute-108,
+
+img._idGenObjectAttribute-108 {
+  width: 15.54%;
+}
+body
+  .main-container
+  .editor-container
+  .ck
+  .ck-content
+  div._idGenObjectStyleOverride-1,
+
+div._idGenObjectStyleOverride-1 {
+  border-width: 0px;
+}
+
+
+div._idGenObjectLayout-1 {
+  text-align: left;
+}
+
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: polygon(0 0, 0 0, 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+	mtd {
+		padding: 5px;
+	}
+	
